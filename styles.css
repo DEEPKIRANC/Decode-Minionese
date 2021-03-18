@@ -72,3 +72,14 @@ button
     padding:1rem;
     font-size:1.5rem;
 }
+
+.footer
+{
+    background-color: black;
+    border-bottom-right-radius: 20px;
+    padding:2rem;
+    margin-top:1rem;
+    text-align:center;
+    font-family: var(--primary-font);
+    color:#FCD34D;
+}
